@@ -1,4 +1,3 @@
-import pyfiglet
 import requests
 import sys
 import threading
@@ -6,7 +5,7 @@ import random
 import re
 import argparse
 
-print(pyfiglet.figlet_format('harsh_ban_'))
+print('harsh_ban_')
 
 host=''
 headers_useragents=[]
